@@ -1,16 +1,18 @@
-## Hi there 👋
+👋 **Olá! Eu sou Gabriel Cardoso**
 
-<!--
-**GabrielCardoso08/GabrielCardoso08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌑Estudante de Ciências da Computação e apaixonado por tecnologia. Tenho experiência com Suporte Técnico, Redes e Monitoramento de Sistemas, e estou desenvolvendo habilidades em programação e ferramentas voltadas à área de TI.
 
-Here are some ideas to get you started:
+🚀 **SOBRE MIM**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Graduando em Ciências da Computação
+
+🖥️ Experiência com Suporte Técnico, Redes e Análise de Incidentes
+
+🔍 Interesse em infraestrutura, segurança e desenvolvimento
+
+📘 Sempre aprendendo algo novo
+
+📂 **Projetos**
+
+(Em breve)
+
